@@ -1,1 +1,5 @@
 I started with Pursuit L2 class, I am exciting to continue this new journey and successfuly 
+
+My name is Marc and I have also joined on this adventure. I have created a new branch
+and then added to this story. I have also set this repository as a local repository.
+I can make all the changes I want on this branch. 
