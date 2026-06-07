@@ -3,3 +3,9 @@ I started with Pursuit L2 class, I am exciting to continue this new journey and 
 My name is Marc and I have also joined on this adventure. I have created a new branch
 and then added to this story. I have also set this repository as a local repository.
 I can make all the changes I want on this branch. 
+
+But I am going to create a new branch to tell the rest of the story. Branch B.
+
+So today in this journey Marc is working on the Github stuff while the class mostly 
+collabs in groups of two. Mofazzal and I will be working on the platform later today.
+Now lets commit this.
